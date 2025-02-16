@@ -14,4 +14,4 @@ def generate_password(length):
 
 # Test the function
 password = generate_password(12)
-print(password)
+print("Your password is: ", password)
