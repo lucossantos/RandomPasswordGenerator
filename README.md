@@ -1,3 +1,3 @@
-This code defines a function `generate_password` that takes a length parameter and returns a random password of the specified length. The function uses the `string` and `random` modules to generate a random combination of lowercase and uppercase letters, digits, and special characters.
+This code defines a function `generate_password` that takes a length parameter and returns a random password of the specified length. The function uses the string and random modules to generate a random combination of lowercase and uppercase letters, digits, and special characters.
 
 When you run the code, it will generate and print a random password with a length of 12 characters. You can modify the `length` parameter to generate passwords of different lengths.
